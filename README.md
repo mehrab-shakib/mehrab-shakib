@@ -24,6 +24,8 @@ In this ever-evolving digital era, I stand ready to contribute, learn, and colla
 ## 🚦 Projects
 [![github](https://img.shields.io/badge/github-etherPresso-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehrab-shakib/etherPressoDapp)
 
+## 💻 See Portfolio
+[![github](https://img.shields.io/badge/Personal-Website-1DA1F2?style=for-the-badge&logo=netlify&logoColor=white)](https://mehrab-shakib-portfolio.netlify.app)
 
 ## 🔗 Find me on 
 
